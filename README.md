@@ -1,1 +1,1 @@
-# Odev1
+Kodluyoruz SQL eğitimi için yaptığım tüm ödevler.
